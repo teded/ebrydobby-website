@@ -1,4 +1,4 @@
-# Ebry Dobby Website v1
+# Ebry Dobby Website
 
 Static site for `www.ebrydobby.com`.
 
