@@ -40,3 +40,8 @@ Open http://localhost:8080
 - Add real Plates screenshots / brand artwork.
 - Confirm AdSense site approval and ad-serving status.
 - Add analytics only after choosing the desired provider.
+
+## v3 changes
+- Updated the Plates privacy policy to match the supplied January 1, 2024 policy.
+- Added privacy-by-design language and data-deletion guidance.
+- Added a privacy highlights section to the homepage.
